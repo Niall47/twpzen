@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Idiot Lecture"
+title:  "Introduction"
 date:   2023-11-18 10:15:57 +0000
 categories: Mental_Health
 ---
