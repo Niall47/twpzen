@@ -3,32 +3,32 @@ layout: post
 title: "Cold Exposure and Breathing"
 date: 2023-11-19 13:11:57 +0000
 categories: Mental_Health
-
+image: /assets/images/wim.jpg
 ---
 
-# <center> Cold Exposure and Breathing
-
-<center><em>'How to dramatically improve your life quickly!'</em>
-
-{% youtube "https://youtu.be/bx6Z_JxYtRM" %}
 
 
-![The Big Wim](/assets/wim.jpg)
-[The Big Wim](/assets/wim.jpg)
+<center><em>'How to dramatically improve your life quickly!'</em></center>
+
+[![The Big Wim Hof](/assets/images/wim.jpg)](https://www.wimhofmethod.com/)
+<pre>
+<center>
+Holder of 26 world records, creating breakthroughs in science and spreading  
+the word about how his technique can heal the body and mind,  
+with backing from legit scientists, it seems too good to be true....
 
 
+↑ Wim Hof
 
-<center>Holder of 26 world records, creating breakthroughs in science and spreading the word about how his technique can heal the body and mind, with backing from legit scientists, it seems too good to be true....
+Cal Boi↓
+</center>
+</pre>
 
-<br><br>
-
-<center>↑ Wim Hof
-
-<center>Cal Boi↓
 {% youtube "https://www.youtube.com/watch?v=L_-2siswBNY" %}
 
 I'm very proud of myself for finally getting my first-ever ice bath done! Something that gave me so much anxiety about doing, I had a bazillion excuses, but I got it done! I had a few more in the bath and then bought myself a Lumi Pod for my garden and I get in there most mornings after calming down my nerves and silly excuses.
 
+{% youtube "https://youtu.be/bx6Z_JxYtRM" %}
 I honestly love it, it is so damn powerful for supercharging my mood and energy on top of all the health benefits!
 
 ## Extreme celeb reaction to breathing technique <br> 'Freeze the Fear with Wim Hof' - BBC
